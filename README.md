@@ -1,1 +1,1 @@
-# BetaNet-Original-Source-Code
+BetaNet Original Source Code has been put on github for everybody to use because BetaNet is being recoded to be something else, also if you use this code to make something... please let me know at AlphaGamer150@outlook.com
